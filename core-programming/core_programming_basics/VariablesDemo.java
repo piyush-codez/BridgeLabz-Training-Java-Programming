@@ -1,4 +1,4 @@
-package core_programming.core_programming_basics;
+package core_programming_basics;
 
 public class VariablesDemo {
     public static void main(String[] args) {
