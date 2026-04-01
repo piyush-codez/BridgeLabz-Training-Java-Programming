@@ -1,4 +1,4 @@
-package Java_Basic;
+package core_programming_basics.java_basics;
 
 public class OperatorsDemo {
     public static void main(String[] args) {

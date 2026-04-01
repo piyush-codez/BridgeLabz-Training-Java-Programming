@@ -1,0 +1,17 @@
+package core_programming_basics.level1;
+
+import java.util.Scanner;
+
+public class TriangleArea {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        float base = sc.nextFloat();
+        float height = sc.nextFloat();
+        double areaInCm = 0.5*base*height;
+        double areaInInch = areaInCm/2.54;
+        double areaInFeet = areaInInch/12;
+        System.out.println("Area in Cm : " + areaInCm);
+        System.out.println("Area in Inch : " + areaInInch);
+        System.out.println("Area in Feet : " + areaInFeet);
+    }
+}
