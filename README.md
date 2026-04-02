@@ -1,1 +1,2 @@
-# BL_Java_Full_Stack
+# BridgeLabz-Training-Java-Programming
+
