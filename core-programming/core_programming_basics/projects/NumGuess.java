@@ -1,4 +1,4 @@
-package core_programming_basics.Projects;
+package core_programming_basics.projects;
 import java.util.Scanner;
 
 public class NumGuess {
