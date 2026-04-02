@@ -1,4 +1,4 @@
-package core_programming_basics.Elementary_Coding.level1;
+package core_programming_basics.elementary_coding.level1;
 
 import java.util.Scanner;
 
