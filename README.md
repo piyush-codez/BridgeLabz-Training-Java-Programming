@@ -1,21 +1,21 @@
 # BridgeLabz-Training-Java-Programming
 
-BridgeLabz-Training-Java-Programming
+🚀 BridgeLabz-Training-Java-Programming
 
-Description
+📖 Description
 
 This repository is designed to strengthen core Java programming concepts through hands-on coding practice, logical problem solving, and structured learning.
 It focuses on building a solid programming foundation using Java by covering basic syntax, control statements, operators, functions, loops, type conversion, and small real-world problem-solving applications.
 
 The repository follows a branch-wise learning structure to help understand concepts step by step in an organized way.
 
-Tech Stack
+🛠️ Tech Stack
 	•	Language: Java
 	•	IDE: IntelliJ IDEA Community Edition
 	•	Version Control: Git & GitHub
 	•	Platform: JDK 17+
 
-Repository Structure & Branches
+📂 Repository Structure & Branches
 
 core-programming Branch
 
@@ -87,7 +87,7 @@ Purpose:
 
 To apply Java fundamentals in small real-world projects and improve logical thinking, condition handling, and user interaction.
 
-Features
+✨ Features
 	•	Branch-wise structured learning
 	•	Beginner-friendly Java programs
 	•	Real-world problem-solving examples
@@ -96,7 +96,7 @@ Features
 	•	Covers both fundamentals and mini-projects
 	•	Interview-oriented coding practice
 
-How to Run
+▶️ How to Run
 	1.	Clone the repository
 	2.	Open the project in Visual Studio Code
 	3.	Install Java JDK if not already installed
@@ -108,7 +108,7 @@ javac FileName.java
 
 java FileName
 
-Learning Outcome
+🎯 Learning Outcome
 	•	Strong understanding of Java fundamentals
 	•	Improved logical thinking and problem-solving skills
 	•	Better understanding of operators, loops, conditions, and functions
@@ -116,8 +116,9 @@ Learning Outcome
 	•	Ability to organize Java programs using proper folder structure
 	•	Readiness for advanced Java and object-oriented programming concepts
 
-Author
+👨‍💻 Author
 
 Piyush Rathor
 B.Tech Student | Aspiring Java Developer
+Focused on Java Programming, OOPs, DSA, Problem Solving, and building clean, structured code.
 Focused on Java Programming, OOPs, DSA, Problem Solving, and building clean, structured code.
