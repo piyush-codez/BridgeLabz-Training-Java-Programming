@@ -1,14 +1,14 @@
-package core_programming_intermediate.Control_Flow;
+package core_programming_intermediate.Control_Flow.level1;
 
 import java.util.Scanner;
 
-public class CheckDivisibilityOf5 {
+public class FirstSmallerNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        if(n%5 == 0){
+        int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
+        if(a < b && a < c){
             System.out.println("Yes");
-        }else {
+        }else{
             System.out.println("No");
         }
     }

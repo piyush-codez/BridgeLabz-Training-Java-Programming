@@ -1,4 +1,4 @@
-package core_programming_intermediate.Control_Flow;
+package core_programming_intermediate.Control_Flow.level1;
 
 import java.util.Scanner;
 
