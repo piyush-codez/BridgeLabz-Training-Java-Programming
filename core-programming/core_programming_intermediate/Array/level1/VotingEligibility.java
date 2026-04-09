@@ -1,4 +1,4 @@
-package core_programming_intermediate.Array;
+package core_programming_intermediate.Array.level1;
 
 import java.util.Scanner;
 
