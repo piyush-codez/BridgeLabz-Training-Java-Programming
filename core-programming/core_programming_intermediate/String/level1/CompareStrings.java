@@ -1,4 +1,4 @@
-package core_programming_intermediate.String;
+package core_programming_intermediate.String.level1;
 
 import java.util.Scanner;
 
