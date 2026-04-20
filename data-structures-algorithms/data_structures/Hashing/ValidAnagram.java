@@ -1,4 +1,4 @@
-package Hashing;
+package data_structures.Hashing;
 
 public class ValidAnagram {
 

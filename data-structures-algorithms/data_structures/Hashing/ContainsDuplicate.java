@@ -1,4 +1,4 @@
-package Hashing;
+package data_structures.Hashing;
 
 import java.util.HashSet;
 

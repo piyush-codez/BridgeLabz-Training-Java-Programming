@@ -1,4 +1,4 @@
-package LinkedList;
+package data_structures.LinkedList;
 public class MergeTwoSortedLists {
 
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {

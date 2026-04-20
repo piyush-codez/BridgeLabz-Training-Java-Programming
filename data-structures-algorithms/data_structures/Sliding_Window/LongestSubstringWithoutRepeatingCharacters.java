@@ -1,4 +1,4 @@
-package Sliding_Window;
+package data_structures.Sliding_Window;
 
 import java.util.HashSet;
 

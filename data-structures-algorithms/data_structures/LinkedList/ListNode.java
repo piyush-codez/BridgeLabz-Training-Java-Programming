@@ -1,4 +1,4 @@
-package LinkedList;
+package data_structures.LinkedList;
 public class ListNode {
     int val;
     ListNode next;
